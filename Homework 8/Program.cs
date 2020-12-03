@@ -1,4 +1,8 @@
-﻿using System;
+﻿/// Week 8		Lab 
+/// File Name: Program.cs
+/// @author: Antonio Monteiro
+
+using System;
 using System.Collections.Generic;
 
 namespace Homework_8 {
